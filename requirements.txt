@@ -1,0 +1,5 @@
+chainlit>=2.0.0
+google-genai>=0.6.0
+mysql-connector-python>=8.0.33
+python-dotenv>=1.0.0
+ujson>=5.8.0
