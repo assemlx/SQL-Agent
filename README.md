@@ -115,7 +115,7 @@ It will ask:
 > “This operation is dangerous. Do you want to continue? (yes/no)”
 
 
-##📦 Deployment (Optional)
+## 📦 Deployment
 
 Deploy options:
 
