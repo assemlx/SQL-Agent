@@ -79,7 +79,7 @@ pip install -r requirements.txt
 chainlit run app.py -w
 ````
 
-4. **Open the UI from:*
+4. **Open the UI from:**
 
 http://localhost:8000
 
